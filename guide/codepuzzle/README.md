@@ -1,3 +1,3 @@
 # codepuzzle
 
-## codepuzzle content
+## codepuzzle contents
