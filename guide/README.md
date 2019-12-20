@@ -8,4 +8,4 @@ You can learn the rules of each projects
 
 1. Projects
 2. Communication
-3. Other rules
+3. Environment
