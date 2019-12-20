@@ -11,7 +11,7 @@ module.exports = {
                     collapsable: false, // optional, defaults to true
                     sidebarDepth: 1,    // optional, defaults to 1
                     children: [
-                        ['/guide/codepuzzle/', 'codepuzzle'],
+                        ['/guide/codepuzzle/', 'Codepuzzle'],
                     ]
                 },
                 {
@@ -19,7 +19,7 @@ module.exports = {
                     collapsable: false, // optional, defaults to true
                     sidebarDepth: 1,    // optional, defaults to 1
                     children: [
-                        ['/guide/communication/', 'communication']
+                        ['/guide/communication/', 'Communication']
                     ]
                 },
                 {
@@ -27,7 +27,7 @@ module.exports = {
                     collapsable: false, // optional, defaults to true
                     sidebarDepth: 1,    // optional, defaults to 1
                     children: [
-                        ['/guide/others/', 'others']
+                        ['/guide/environment/', 'Environment']
                     ]
                 },
 
